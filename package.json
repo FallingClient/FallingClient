@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "FallingClient",
+  "version": "1.8.9",
+  "productName": "Fallling Client",
+  "description": "Client Is Falling",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) Original Creator",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
